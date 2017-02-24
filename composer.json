@@ -3,7 +3,7 @@
     "description": "qcloud weapp server sdk and cos sdk for laravel",
     "type": "library",
     "require": {
-    	"laravel/framework": "5.*",
+    	"laravel/framework": "5.3.*",
         "qcloud/weapp-sdk": "^0.4.4"
     },
     "autoload": {
