@@ -5,6 +5,11 @@
     "require": {
         "qcloud/weapp-sdk": "^0.4.4"
     },
+    "autoload": {
+    	"psr-4": {
+	    "Urionz\\Qcloud\\": "src/"
+	}
+    },
     "license": "MIT",
     "authors": [
         {
