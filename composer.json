@@ -2,6 +2,7 @@
     "name": "urionz/qcloud-weapp-server-laravel",
     "description": "qcloud weapp server sdk and cos sdk for laravel",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
     	"laravel/framework": "5.3.*",
         "qcloud/weapp-sdk": "^0.4.4"
